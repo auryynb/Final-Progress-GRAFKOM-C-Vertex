@@ -1,0 +1,20 @@
+﻿  Demo.cpp
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(181,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(182,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(183,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(249,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(250,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(251,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(252,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(253,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(254,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(257,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(258,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(259,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(260,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(261,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(262,38): warning C4305: 'argument': truncation from 'double' to 'float'
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\vc110.pdb'; linking object as if no debug info
+  Lesson05.vcxproj -> C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\Lesson05.exe
